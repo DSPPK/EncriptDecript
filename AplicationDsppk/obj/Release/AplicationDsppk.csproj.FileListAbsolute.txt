@@ -1,0 +1,15 @@
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\bin\Release\AplicationDsppk.exe.config
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\bin\Release\AplicationDsppk.exe
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\bin\Release\AplicationDsppk.pdb
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\bin\Release\FileHelpers.dll
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\bin\Release\Financial.dll
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\bin\Release\ServiceStack.Text.dll
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Release\AplicationDsppk.csprojResolveAssemblyReference.cache
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Release\AplicationDsppk.SendMail.resources
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Release\AplicationDsppk.Form1.resources
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Release\AplicationDsppk.Properties.Resources.resources
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Release\AplicationDsppk.csproj.GenerateResource.cache
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Release\AplicationDsppk.csproj.CoreCompileInputs.cache
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Release\AplicationDsppk.csproj.CopyComplete
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Release\AplicationDsppk.exe
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Release\AplicationDsppk.pdb

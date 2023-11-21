@@ -1,0 +1,1 @@
+c:\users\dms\documents\visual studio 2012\Projects\aplicationTest\aplicationTest\bin\Debug\aplicationTest.exe.config

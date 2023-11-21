@@ -1,0 +1,49 @@
+C:\Users\DMS\Documents\Visual Studio 2012\Projects\aplicationTest\AplicationDsppk\obj\Debug\AplicationDsppk.Form1.resources
+C:\Users\DMS\Documents\Visual Studio 2012\Projects\aplicationTest\AplicationDsppk\obj\Debug\AplicationDsppk.Properties.Resources.resources
+C:\Users\DMS\Documents\Visual Studio 2012\Projects\aplicationTest\AplicationDsppk\obj\Debug\AplicationDsppk.csproj.GenerateResource.Cache
+C:\Users\DMS\Documents\Visual Studio 2012\Projects\aplicationTest\AplicationDsppk\bin\Debug\AplicationDsppk.exe.config
+C:\Users\DMS\Documents\Visual Studio 2012\Projects\aplicationTest\AplicationDsppk\bin\Debug\AplicationDsppk.exe
+C:\Users\DMS\Documents\Visual Studio 2012\Projects\aplicationTest\AplicationDsppk\bin\Debug\AplicationDsppk.pdb
+C:\Users\DMS\Documents\Visual Studio 2012\Projects\aplicationTest\AplicationDsppk\bin\Debug\Financial.dll
+C:\Users\DMS\Documents\Visual Studio 2012\Projects\aplicationTest\AplicationDsppk\obj\Debug\AplicationDsppk.exe
+C:\Users\DMS\Documents\Visual Studio 2012\Projects\aplicationTest\AplicationDsppk\obj\Debug\AplicationDsppk.pdb
+D:\LATIHAN\aplicationTest\AplicationDsppk\bin\Debug\AplicationDsppk.exe.config
+D:\LATIHAN\aplicationTest\AplicationDsppk\obj\Debug\AplicationDsppk.exe
+D:\LATIHAN\aplicationTest\AplicationDsppk\obj\Debug\AplicationDsppk.pdb
+D:\LATIHAN\aplicationTest\AplicationDsppk\bin\Debug\AplicationDsppk.exe
+D:\LATIHAN\aplicationTest\AplicationDsppk\bin\Debug\AplicationDsppk.pdb
+D:\LATIHAN\aplicationTest\AplicationDsppk\bin\Debug\Financial.dll
+D:\LATIHAN\aplicationTest\AplicationDsppk\obj\Debug\AplicationDsppk.csprojResolveAssemblyReference.cache
+D:\LATIHAN\aplicationTest\AplicationDsppk\obj\Debug\AplicationDsppk.Form1.resources
+D:\LATIHAN\aplicationTest\AplicationDsppk\obj\Debug\AplicationDsppk.Properties.Resources.resources
+D:\LATIHAN\aplicationTest\AplicationDsppk\obj\Debug\AplicationDsppk.csproj.GenerateResource.Cache
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\bin\Debug\AplicationDsppk.exe.config
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\bin\Debug\AplicationDsppk.exe
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\bin\Debug\AplicationDsppk.pdb
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\bin\Debug\FileHelpers.dll
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\bin\Debug\Financial.dll
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\bin\Debug\ServiceStack.Text.dll
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.SendMail.resources
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.Form1.resources
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.Properties.Resources.resources
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.csproj.GenerateResource.Cache
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.exe
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.pdb
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.csproj.CoreCompileInputs.cache
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.csproj.CopyComplete
+D:\DHIMAS\LATIHAN\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.csprojResolveAssemblyReference.cache
+D:\DEVELOPER\LATIHAN\.NET\APP\Dekstop\AplicationDsppk\AplicationDsppk\bin\Debug\AplicationDsppk.exe.config
+D:\DEVELOPER\LATIHAN\.NET\APP\Dekstop\AplicationDsppk\AplicationDsppk\bin\Debug\AplicationDsppk.exe
+D:\DEVELOPER\LATIHAN\.NET\APP\Dekstop\AplicationDsppk\AplicationDsppk\bin\Debug\AplicationDsppk.pdb
+D:\DEVELOPER\LATIHAN\.NET\APP\Dekstop\AplicationDsppk\AplicationDsppk\bin\Debug\FileHelpers.dll
+D:\DEVELOPER\LATIHAN\.NET\APP\Dekstop\AplicationDsppk\AplicationDsppk\bin\Debug\Financial.dll
+D:\DEVELOPER\LATIHAN\.NET\APP\Dekstop\AplicationDsppk\AplicationDsppk\bin\Debug\ServiceStack.Text.dll
+D:\DEVELOPER\LATIHAN\.NET\APP\Dekstop\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.csprojAssemblyReference.cache
+D:\DEVELOPER\LATIHAN\.NET\APP\Dekstop\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.SendMail.resources
+D:\DEVELOPER\LATIHAN\.NET\APP\Dekstop\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.Form1.resources
+D:\DEVELOPER\LATIHAN\.NET\APP\Dekstop\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.Properties.Resources.resources
+D:\DEVELOPER\LATIHAN\.NET\APP\Dekstop\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.csproj.GenerateResource.cache
+D:\DEVELOPER\LATIHAN\.NET\APP\Dekstop\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.csproj.CoreCompileInputs.cache
+D:\DEVELOPER\LATIHAN\.NET\APP\Dekstop\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.csproj.CopyComplete
+D:\DEVELOPER\LATIHAN\.NET\APP\Dekstop\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.exe
+D:\DEVELOPER\LATIHAN\.NET\APP\Dekstop\AplicationDsppk\AplicationDsppk\obj\Debug\AplicationDsppk.pdb
